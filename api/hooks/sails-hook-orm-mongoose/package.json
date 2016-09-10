@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      "sails-hook-orm-mongoose",
+      "/Users/MacBookPro/Nodeproject/work-boilerplate/testProject"
+    ]
+  ],
+  "_from": "sails-hook-orm-mongoose@latest",
+  "_id": "sails-hook-orm-mongoose@0.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sails-hook-orm-mongoose",
+  "_nodeVersion": "0.10.26",
+  "_npmUser": {
+    "email": "michael.r.mcneil@gmail.com",
+    "name": "mikermcneil"
+  },
+  "_npmVersion": "2.8.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "sails-hook-orm-mongoose",
+    "raw": "sails-hook-orm-mongoose",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sails-hook-orm-mongoose/-/sails-hook-orm-mongoose-0.2.1.tgz",
+  "_shasum": "f52679b1728fbfb0a0010e78eef7cc3f3ba9fd5c",
+  "_shrinkwrap": null,
+  "_spec": "sails-hook-orm-mongoose",
+  "_where": "/Users/MacBookPro/Nodeproject/work-boilerplate/testProject",
+  "author": {
+    "name": "Mike McNeil"
+  },
+  "bugs": {
+    "url": "https://github.com/mikermcneil/sails-hook-orm-mongoose/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "mongoose": "^4.3.6"
+  },
+  "description": "An example override for the `orm` hook in Sails.  Loads and instantiates your model files as Mongoose models instead of Waterline models.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f52679b1728fbfb0a0010e78eef7cc3f3ba9fd5c",
+    "tarball": "https://registry.npmjs.org/sails-hook-orm-mongoose/-/sails-hook-orm-mongoose-0.2.1.tgz"
+  },
+  "gitHead": "6fedf93ded895a8ae43839786facd6ee4657d271",
+  "homepage": "https://github.com/mikermcneil/sails-hook-orm-mongoose#readme",
+  "keywords": [
+    "sails",
+    "mongoose",
+    "orm",
+    "override",
+    "hook",
+    "orm-hook"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "michael.r.mcneil@gmail.com",
+      "name": "mikermcneil"
+    }
+  ],
+  "name": "sails-hook-orm-mongoose",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikermcneil/sails-hook-orm-mongoose.git"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}
